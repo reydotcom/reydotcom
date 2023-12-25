@@ -15,7 +15,7 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Library
-![aiogram(https://img.shields.io/badge/aiogram-%2523000000.svg?style=flat&logo=aiogram&logoColor=165af7)
+![aiogram](https://img.shields.io/badge/aiogram-%2523000000.svg?style=flat&logo=aiogram&logoColor=165af7)
 
 
 
