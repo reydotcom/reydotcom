@@ -11,15 +11,15 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ## 🛠 Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-316192?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Framework
 Laravel
 
 ### DataBase
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
 
 ### Deployment
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
