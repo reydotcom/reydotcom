@@ -14,7 +14,7 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Framework
+### Frameworks
 ![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ### DataBase
