@@ -1,7 +1,7 @@
 ## 👨‍💻 About Me
 Hello, my name is *Kirill*, and I'm a beginner backend developer. My main drive is creating innovative solutions that enhance user experience and make people's lives easier.
 
-### 🔧 My Experience
+### My Experience
 Currently, I am actively working on my own project using Python with aiogram. This experience has given me the confidence to swiftly and efficiently tackle technical challenges that arise during development. My time management skills enable me to effectively manage projects and focus on achieving their goals.
 
 ### Reach me
@@ -14,7 +14,18 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### Library
+### Framework
+Laravel
+
+### DataBase
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=MySQL&logoColor=white)
+
+### Deployment
+![Linux](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=Linux&logoColor=white)
+![Apachi](https://img.shields.io/badge/Apache-316192?style=for-the-badge&logo=Apache&logoColor=white)
+
+### Other
 ![aiogram](https://img.shields.io/badge/aiogram-%2523000000.svg?style=flat&logo=aiogram&logoColor=165af7)
 
 
