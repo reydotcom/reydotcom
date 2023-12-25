@@ -11,22 +11,22 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ## 🛠 Skills
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### Framework
-![Laravel](https://img.shields.io/badge/Laravel-316192?style=for-the-badge&logo=Laravel&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-red?style=for-the-badge&logo=Laravel&logoColor=white)
 
 ### DataBase
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-00000F?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=PostgreSQL&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Deployment
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
-![Apachi](https://img.shields.io/badge/Apache-316192?style=for-the-badge&logo=Apache&logoColor=white)
+![Apachi](https://img.shields.io/badge/Apace-red?style=for-the-badge&logo=Apache&logoColor=white)
 
 ### Other
-![aiogram](https://img.shields.io/badge/aiogram-%2523000000.svg?style=flat&logo=aiogram&logoColor=165af7)
+![aiogram](https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=aiogram&logoColor=white)
 
 
 
