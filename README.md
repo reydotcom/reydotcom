@@ -22,7 +22,7 @@ Laravel
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=MySQL&logoColor=white)
 
 ### Deployment
-![Linux](https://img.shields.io/badge/Linux-316192?style=for-the-badge&logo=Linux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
 ![Apachi](https://img.shields.io/badge/Apache-316192?style=for-the-badge&logo=Apache&logoColor=white)
 
 ### Other
