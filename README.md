@@ -7,8 +7,9 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 ### Reach me
 <a href="https://t.me/reydotcom">
     <img width="32" height="32" src="https://img.icons8.com/color/48/telegram-app--v1.png"/>
-<a href="https://discordapp.com/users/1009007168802017360/">
-    <img width="32" height="32" src="https://img.icons8.com/color/48/discord-logo.png" />
+
+## 🛠 Skills
+
 
 
 
