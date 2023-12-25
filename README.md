@@ -12,6 +12,10 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Library
+![aiogram(https://img.shields.io/badge/aiogram-%2523000000.svg?style=flat&logo=aiogram&logoColor=165af7)
 
 
 
