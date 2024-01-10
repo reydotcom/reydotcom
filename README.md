@@ -25,7 +25,7 @@ Currently, I am actively working on my own project using Python with aiogram. Th
 
 ### Deployment
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=Linux&logoColor=white)
-![Apachi](https://img.shields.io/badge/Apace-red?style=for-the-badge&logo=Apache&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-red?style=for-the-badge&logo=Apache&logoColor=white)
 
 ### Other
 ![aiogram](https://img.shields.io/badge/aiogram-blue?style=for-the-badge&logo=aiogram&logoColor=white)
